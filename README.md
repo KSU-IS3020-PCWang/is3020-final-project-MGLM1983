@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Moises Gregory Lopez Marte
+- GitHub username: MGLM1983
+- Project title: AC Small Business Financial Tracker
+- Application purpose: A small business tool that can be used to track all financial transactions, job details, and monthly reports.
 
 ## How to Run the Application
 
